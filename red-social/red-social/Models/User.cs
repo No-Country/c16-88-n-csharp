@@ -2,6 +2,9 @@
 {
     public class User
     {
+
+
+
         public int Id { get; set; }
         public int NameUser { get; set; }
         public int Password { get; set; }

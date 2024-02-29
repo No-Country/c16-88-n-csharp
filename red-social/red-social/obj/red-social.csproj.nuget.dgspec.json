@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Franco\\Desktop\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj": {}
+    "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Franco\\Desktop\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj": {
+    "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Franco\\Desktop\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj",
+        "projectUniqueName": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj",
         "projectName": "red-social",
-        "projectPath": "C:\\Users\\Franco\\Desktop\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj",
-        "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Franco\\Desktop\\c16-88-n-csharp\\red-social\\red-social\\obj\\",
+        "projectPath": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\red-social.csproj",
+        "packagesPath": "C:\\Users\\romeo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\romeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,6 +65,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

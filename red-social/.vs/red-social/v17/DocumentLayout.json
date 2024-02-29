@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53DDE678-F7A8-4ABA-AED5-0DC4D6069C12}|red-social\\red-social.csproj|c:\\users\\romeo\\onedrive\\documentos\\marcos\\programacion\\nocountry\\redsocial\\nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53DDE678-F7A8-4ABA-AED5-0DC4D6069C12}|red-social\\red-social.csproj|solutionrelative:red-social\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 859,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\Models\\User.cs",
+              "RelativeDocumentMoniker": "red-social\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\romeo\\OneDrive\\Documentos\\Marcos\\Programacion\\NoCountry\\RedSocial\\Nueva carpeta\\c16-88-n-csharp\\red-social\\red-social\\Models\\User.cs",
+              "RelativeToolTip": "red-social\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:05:18.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
